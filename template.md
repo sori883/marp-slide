@@ -20,7 +20,9 @@ paginate: true
 
 ## 自己紹介
 
-![bg right:40% 80%](./icon.png)
+![bg right:40% 80%](./prairie-card.png)
+
+<img class="profile-icon" src="./icon.png" alt="">
 
 **名前：** ○○ ○○
 **所属：** ○○株式会社 / ○○部
